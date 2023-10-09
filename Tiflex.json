@@ -1,9 +1,9 @@
 {
     "apiUrl" : "https://admin.gomovies.ma/api/",
 
-	"pushUpdate" : "off",
+	"pushUpdate" : "on",
 
-	"newPackage" : "",
+	"newPackage" : "com.neliculix.dezor",
 	"NetworkAds" : "applovin"
 
 }
